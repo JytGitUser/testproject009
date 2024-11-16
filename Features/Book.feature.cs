@@ -37,6 +37,7 @@ namespace BritishAirways.Features
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
             TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "Book Section", "A short summary of the feature", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
+            Console.WriteLine("ABC");
         }
         
         [NUnit.Framework.OneTimeTearDownAttribute()]
