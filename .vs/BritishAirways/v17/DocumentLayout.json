@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Selenium c#\\SpecFlowPOMFramework-main\\BritishAirways\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Selenium c#\\SpecFlowPOMFramework-main\\BritishAirways\\Features\\Discover.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Discover.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Selenium c#\\SpecFlowPOMFramework-main\\BritishAirways\\Features\\Book.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Book.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Discover.feature",
+              "DocumentMoniker": "D:\\Selenium c#\\SpecFlowPOMFramework-main\\BritishAirways\\Features\\Discover.feature",
+              "RelativeDocumentMoniker": "Features\\Discover.feature",
+              "ToolTip": "D:\\Selenium c#\\SpecFlowPOMFramework-main\\BritishAirways\\Features\\Discover.feature",
+              "RelativeToolTip": "Features\\Discover.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-16T13:10:20.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.feature",
+              "DocumentMoniker": "D:\\Selenium c#\\SpecFlowPOMFramework-main\\BritishAirways\\Features\\Book.feature",
+              "RelativeDocumentMoniker": "Features\\Book.feature",
+              "ToolTip": "D:\\Selenium c#\\SpecFlowPOMFramework-main\\BritishAirways\\Features\\Book.feature",
+              "RelativeToolTip": "Features\\Book.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-16T13:10:14.412Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+D:\Selenium c#\SpecFlowPOMFramework-main\BritishAirways\obj\Debug\net6.0\BritishAirways.csproj.AssemblyReference.cache
+D:\Selenium c#\SpecFlowPOMFramework-main\BritishAirways\obj\Debug\net6.0\BritishAirways.GeneratedMSBuildEditorConfig.editorconfig
+D:\Selenium c#\SpecFlowPOMFramework-main\BritishAirways\obj\Debug\net6.0\BritishAirways.AssemblyInfoInputs.cache
+D:\Selenium c#\SpecFlowPOMFramework-main\BritishAirways\obj\Debug\net6.0\BritishAirways.AssemblyInfo.cs
+D:\Selenium c#\SpecFlowPOMFramework-main\BritishAirways\obj\Debug\net6.0\BritishAirways.csproj.CoreCompileInputs.cache
